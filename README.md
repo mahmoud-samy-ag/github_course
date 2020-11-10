@@ -1,6 +1,6 @@
 # github_course
 course to learn git and github
 
-##project notes
+## project notes
 
 follow my notes to work on this project
